@@ -1,4 +1,4 @@
-# easy md5
+# easy rce
 
 题目链接：https://www.nssctf.cn/problem/424
 
