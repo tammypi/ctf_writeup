@@ -1,4 +1,4 @@
-# easyupload_2.0
+# easyupload_1.0
 
 题目链接：https://www.nssctf.cn/problem/388
 
